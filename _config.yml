@@ -21,7 +21,7 @@ description: >
 baseurl: "/Test.MountainWestDLS.github.io" # the subpath of your site, e.g. /blog/
 url: "https//mountainwestdls.github.io" # the base hostname & protocol for your site
 cover: "/assets/radhakrishna.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/MWlogo1-M.png"
 
 # Build settings
 markdown: kramdown
