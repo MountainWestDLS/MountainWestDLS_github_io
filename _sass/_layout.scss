@@ -34,6 +34,20 @@ code {
 	padding: 0 3px;
 }
 
+.map {
+  position: relative;
+  padding-bottom: 70%;
+  height: 0;
+	margin-bottom: .8rem;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
 pre code.hljs {
 	font-size: modular-scale(-1);
 }
