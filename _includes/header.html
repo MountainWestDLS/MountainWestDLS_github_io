@@ -12,7 +12,8 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for page in site.pages %}
+				{% assign sorted_pages = site.pages | sort:"main_nav_position" %}
+        {% for page in sorted_pages %}
           {% if page.title and page.main_nav != false %}
           <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
