@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-main_nav_position: 0
+main_nav_position: -5
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
