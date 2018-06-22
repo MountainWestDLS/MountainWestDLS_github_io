@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule_2018/
 ---
 
-[Monday, August 13](#monday-august-13) | [Thesday, August 14](#tuesday-august-14)
+[Monday, August 13](#monday-august-13) | [Tuesday, August 14](#tuesday-august-14)
 
 ### Monday, August 13
 
