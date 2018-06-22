@@ -11,6 +11,7 @@ Time    | Description
 ----    | ---------------------------
 *8:30*  | • Registration desk opens
 *9:00*  | • Welcome <br> • coffee & tea
-9:30  | Workshop 1
+**9:30**  | Workshop 1
 11:00 | Unconference Session 1
-12:15 | Lunch
+12:15 | Lunch /BOF
+1:30  | Unconference Session 2
