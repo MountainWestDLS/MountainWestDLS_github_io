@@ -6,6 +6,7 @@ permalink: /schedule_2018/
 
 
 ### Monday, August 13
+
 Time    | Description
 ----    | ---------------------------
 *8:30*  | • Registration desk opens
