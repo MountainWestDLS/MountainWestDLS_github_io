@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule_2018/
 ---
 
-[Monday, August 13](#monday-august-13) | [Tuesday, August 14](#tuesday-august-14)
+[Monday, August 13](#monday-august-13) | [Tuesday, August 14](#tuesday-august-14) | [Map](/registration_2018/)
 
 ### Monday, August 13
 
@@ -18,7 +18,7 @@ Time            | Description
 *1:15 - 1:30*   | • Break
 *1:30 - 3:00*   | • Unconference session 2
 *3:00 - 3:30*   | • Travel to LASP on CU East Campus
-*3:30 - 4:30*   | • LASP tour
+*3:30 - 4:30*   | • LASP tour (optional)
 *6:30*          | • Dine arounds
 
 
